@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\ReflectItEasy\ReflectItEasy\bin\Debug\ReflectItEasy.dll
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\ReflectItEasy\ReflectItEasy\bin\Debug\ReflectItEasy.pdb
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\ReflectItEasy\ReflectItEasy\bin\Debug\Ploeh.AutoFixture.dll
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\ReflectItEasy\ReflectItEasy\bin\Debug\Should.dll
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\ReflectItEasy\ReflectItEasy\bin\Debug\xunit.dll
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\ReflectItEasy\ReflectItEasy\bin\Debug\Ploeh.AutoFixture.xml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\ReflectItEasy\ReflectItEasy\bin\Debug\xunit.xml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\ReflectItEasy\ReflectItEasy\obj\Debug\ReflectItEasy.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\ReflectItEasy\ReflectItEasy\obj\Debug\ReflectItEasy.dll
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\ReflectItEasy\ReflectItEasy\obj\Debug\ReflectItEasy.pdb
