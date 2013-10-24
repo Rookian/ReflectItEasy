@@ -8,3 +8,17 @@ C:\Users\Alex\Documents\Visual Studio 2012\Projects\ReflectItEasy\ReflectItEasy\
 C:\Users\Alex\Documents\Visual Studio 2012\Projects\ReflectItEasy\ReflectItEasy\obj\Debug\ReflectItEasy.csprojResolveAssemblyReference.cache
 C:\Users\Alex\Documents\Visual Studio 2012\Projects\ReflectItEasy\ReflectItEasy\obj\Debug\ReflectItEasy.dll
 C:\Users\Alex\Documents\Visual Studio 2012\Projects\ReflectItEasy\ReflectItEasy\obj\Debug\ReflectItEasy.pdb
+C:\Development\ReflectItEasy\ReflectItEasy\bin\Debug\ReflectItEasy.dll
+C:\Development\ReflectItEasy\ReflectItEasy\bin\Debug\ReflectItEasy.pdb
+C:\Development\ReflectItEasy\ReflectItEasy\bin\Debug\Ploeh.AutoFixture.dll
+C:\Development\ReflectItEasy\ReflectItEasy\bin\Debug\Ploeh.AutoFixture.Idioms.dll
+C:\Development\ReflectItEasy\ReflectItEasy\bin\Debug\Should.dll
+C:\Development\ReflectItEasy\ReflectItEasy\bin\Debug\xunit.dll
+C:\Development\ReflectItEasy\ReflectItEasy\bin\Debug\Ploeh.AutoFixture.xml
+C:\Development\ReflectItEasy\ReflectItEasy\bin\Debug\Ploeh.AutoFixture.Idioms.xml
+C:\Development\ReflectItEasy\ReflectItEasy\bin\Debug\xunit.xml
+C:\Development\ReflectItEasy\ReflectItEasy\obj\Debug\ReflectItEasy.csprojResolveAssemblyReference.cache
+C:\Development\ReflectItEasy\ReflectItEasy\obj\Debug\ReflectItEasy.dll
+C:\Development\ReflectItEasy\ReflectItEasy\obj\Debug\ReflectItEasy.pdb
+C:\Development\ReflectItEasy\ReflectItEasy\bin\Debug\FakeItEasy.dll
+C:\Development\ReflectItEasy\ReflectItEasy\bin\Debug\FakeItEasy.xml
